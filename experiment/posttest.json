@@ -2,38 +2,106 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Lack of alignment of material in compression test ____________ as load increases",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "Neither increase or decrease",
+        "d": "Remains same"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What should be the height to diameter ratio in compression testing of a material?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1",
+        "b": "5",
+        "c": "7.5",
+        "d": "3"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Compression testing is used to determine",
+      "answers": {
+        "a": "Elastic limit",
+        "b": "Proportionality limit",
+        "c": "Yield point",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "If a part is constrained to move and heated, it will develop",
+      "answers": {
+        "a": "Principal stress",
+        "b": "Tensile stress",
+        "c": "Shear stress",
+        "d": "Compressive stress"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Materials having same elastic properties in all directions are called",
+      "answers": {
+        "a": "Isotropic",
+        "b": "Ideal material",
+        "c": "Uniform",
+        "d": "Elastic material"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is correct with respect to failure of mild steel specimen in this experiment",
+      "answers": {
+        "a": "Failure occurs at inclined angle of 45 degree",
+        "b": "Buckling",
+        "c": "Barrel shape",
+        "d": "Necking"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
     }
   ]
 }
