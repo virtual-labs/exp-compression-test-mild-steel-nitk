@@ -1,0 +1,103 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Ductile nature of material in compression testing is indicated by",
+      "answers": {
+        "a": "Formation of barrel shape",
+        "b": "Formation of fracture",
+        "c": "Neck formation",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Compression test is preferred to tension test for determining the modulus of elasticity(Say True or False)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "In compression testing increasing in buckling is due to",
+      "answers": {
+        "a": "Increase in length to diameter ratio",
+        "b": "Decrease in length to diameter ratio",
+        "c": "Doesn't depend on length to diameter ratio",
+        "d": "No buckling"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following has no unit",
+      "answers": {
+        "a": "Modulus of rigidity",
+        "b": "Compressive strength",
+        "c": "Modulus of elasticity",
+        "d": "Strain"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Deformation /unit length in direction of force is known as",
+      "answers": {
+        "a": "Strain",
+        "b": "Lateral strain",
+        "c": "Linear strain",
+        "d": "Unit strain"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Which is the IS code used for compression test on hard metals ?",
+      "answers": {
+        "a": "IS 516-1959",
+        "b": "IS 13780 -1993",
+        "c": "IS 14858-2000",
+        "d": "IS 2655-1964"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
